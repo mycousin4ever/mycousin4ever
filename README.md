@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhannad Khalid Maglad 
 - 👀 I’m interested in .Net Application
-- 🌱 I’m currently learning mvc 6
+- 🌱 I’m currently learning .net 8
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 muhannad.dev.mohammad@gmail.com
